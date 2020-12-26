@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3baca54b.chunk.css",
-    "main.js": "/static/js/main.476479a1.chunk.js",
-    "main.js.map": "/static/js/main.476479a1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.89db30cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.89db30cc.js.map",
-    "static/js/2.2c38772d.chunk.js": "/static/js/2.2c38772d.chunk.js",
-    "static/js/2.2c38772d.chunk.js.map": "/static/js/2.2c38772d.chunk.js.map",
-    "static/js/3.febe5596.chunk.js": "/static/js/3.febe5596.chunk.js",
-    "static/js/3.febe5596.chunk.js.map": "/static/js/3.febe5596.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3baca54b.chunk.css.map": "/static/css/main.3baca54b.chunk.css.map",
-    "static/js/2.2c38772d.chunk.js.LICENSE.txt": "/static/js/2.2c38772d.chunk.js.LICENSE.txt",
-    "static/media/city2.f6636993.png": "/static/media/city2.f6636993.png",
-    "static/media/weter.2488b52e.png": "/static/media/weter.2488b52e.png"
+    "main.css": "/Weather-App/static/css/main.3baca54b.chunk.css",
+    "main.js": "/Weather-App/static/js/main.476479a1.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.476479a1.chunk.js.map",
+    "runtime-main.js": "/Weather-App/static/js/runtime-main.91da51da.js",
+    "runtime-main.js.map": "/Weather-App/static/js/runtime-main.91da51da.js.map",
+    "static/js/2.2c38772d.chunk.js": "/Weather-App/static/js/2.2c38772d.chunk.js",
+    "static/js/2.2c38772d.chunk.js.map": "/Weather-App/static/js/2.2c38772d.chunk.js.map",
+    "static/js/3.febe5596.chunk.js": "/Weather-App/static/js/3.febe5596.chunk.js",
+    "static/js/3.febe5596.chunk.js.map": "/Weather-App/static/js/3.febe5596.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "static/css/main.3baca54b.chunk.css.map": "/Weather-App/static/css/main.3baca54b.chunk.css.map",
+    "static/js/2.2c38772d.chunk.js.LICENSE.txt": "/Weather-App/static/js/2.2c38772d.chunk.js.LICENSE.txt",
+    "static/media/city2.f6636993.png": "/Weather-App/static/media/city2.f6636993.png",
+    "static/media/weter.2488b52e.png": "/Weather-App/static/media/weter.2488b52e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89db30cc.js",
+    "static/js/runtime-main.91da51da.js",
     "static/js/2.2c38772d.chunk.js",
     "static/css/main.3baca54b.chunk.css",
     "static/js/main.476479a1.chunk.js"
