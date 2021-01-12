@@ -1,0 +1,6 @@
+.preloader__item {
+    width: 200px;
+    height: 200px;
+    background: #000;
+    border-radius: 3px;
+}

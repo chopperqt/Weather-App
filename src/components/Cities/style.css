@@ -1,0 +1,94 @@
+.cities {
+    background: #f6f6f6;
+    border-radius: 3px;
+    padding: 10px 10px;
+}
+.addBtn {
+    background: none;
+    border: none;
+    width: auto;
+    height: 40px;
+    outline: none;
+}
+
+.modal__container {
+    position: absolute;
+    min-width: 100vh;
+    max-width: 100vh;
+}
+.buttonsAdd {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.buttonsAdd button:first-child {
+    margin-right: 10px;
+}
+.citiesName {
+    display: grid;
+    text-align: left;
+    
+}
+.citiesName ul {
+    display: flex;
+    justify-content: center;
+}
+.citiesName ul li {
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 5px;
+    transition: .2s;
+    letter-spacing: 0;
+    display: flex;
+}
+.citiesName ul li span {
+    margin-left: 10px;
+}
+.citiesName ul li:last-child span {
+    display: none;
+}
+.citiesName ul {
+    list-style: none;
+    text-decoration: none;
+    text-align: left;
+    padding: 0;
+}
+.citiesName ul li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    transition: .2s;
+}
+.citiesName ul li:hover {
+    transition: .2s;
+    letter-spacing: 1px;
+}
+#cities {
+    display: flex;
+    align-items: center;
+}
+#cities img {
+    width: 40px;
+}
+.container__weather {
+    margin-bottom: 10px;
+    padding: 0px 0;
+    display: grid;
+    grid-template-columns: repeat(4,200px);
+    grid-template-rows: 200px;
+    grid-gap: 10px;
+}
+.container__weather img {
+    min-width: 60px;
+    max-width: 60px;
+    margin-bottom: 5px;
+}
+.container__weather h2 {
+    background: #f6f6f6;
+    border-radius: 3px;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
